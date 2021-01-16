@@ -306,7 +306,6 @@ cp /data/Datasets/imslp/score_scrape/results/composer/Ludenhoff,_Martin/Deep_Vio
 cp /data/Datasets/imslp/score_scrape/results/composer/Ludenhoff,_Martin/Fantasia_/256907.pdf /home/kji/InstrumentID/data/all/guitar/guitar_201.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Baudiot,_Charles_Nicolas/Lento_/108701.pdf /home/kji/InstrumentID/data/all/cello/cello_14.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Dyson,_Peter/Reflection_for_Guitar_/96363.pdf /home/kji/InstrumentID/data/all/guitar/guitar_202.pdf
-# cp /data/Datasets/imslp/score_scrape/results/composer/Dyson,_Peter/Haggadah_/632673.pdf /home/kji/InstrumentID/data/all/trumpet/trumpet_5.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Paulinyi,_Zoltan/Olavo_de_Carvalho_/400913.pdf /home/kji/InstrumentID/data/all/violin/violin_49.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Lincke,_Andreas_Frederik/8_Etudes_for_Violin_/84037.pdf /home/kji/InstrumentID/data/all/violin/violin_50.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Armbrust,_Crys/Now_Late_In_Life_/505928.pdf /home/kji/InstrumentID/data/all/trumpet/trumpet_6.pdf
@@ -472,7 +471,6 @@ cp /data/Datasets/imslp/score_scrape/results/composer/Leonard,_Jeremiah_Buchanan
 cp /data/Datasets/imslp/score_scrape/results/composer/Negretti_Lanner,_Luigi/Foglio_No.7_/101630.pdf /home/kji/InstrumentID/data/all/trumpet/trumpet_17.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Boehm,_Theobald/24_Caprices-etudes,_Op.26_/339750.pdf /home/kji/InstrumentID/data/all/flute/flute_48.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Boehm,_Theobald/24_Etudes,_Op.37_/238030.pdf /home/kji/InstrumentID/data/all/flute/flute_49.pdf
-# cp /data/Datasets/imslp/score_scrape/results/composer/La_Laurencie,_Lionel_de/L%27%C3%A9cole_fran%C3%A7aise_de_violon,_de_Lully_%C3%A0_Viotti;_%C3%A9tudes_d%27histoire_et_d%27esth%C3%A9tique_/71976.pdf /home/kji/InstrumentID/data/all/violin/violin_90.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Burke,_James_C./Etude_for_Solo_Cello_/43100.pdf /home/kji/InstrumentID/data/all/cello/cello_41.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Vreeland,_Walter_Francis/Idly_in_a_Hammock_/515135.pdf /home/kji/InstrumentID/data/all/guitar/guitar_239.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Santos,_Jonathan/20_Caprichos_para_Violino_Solo_de_Livre_Express%C3%A3o_/488508.pdf /home/kji/InstrumentID/data/all/violin/violin_91.pdf
@@ -953,7 +951,6 @@ cp /data/Datasets/imslp/score_scrape/results/composer/Stahl,_William_C./Sweet_Pr
 cp /data/Datasets/imslp/score_scrape/results/composer/Stahl,_William_C./Oxford_Schottische_/492168.pdf /home/kji/InstrumentID/data/all/guitar/guitar_499.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Stahl,_William_C./Derby_Polka_/492477.pdf /home/kji/InstrumentID/data/all/guitar/guitar_500.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Stahl,_William_C./The_Cream_City_Clog_/492190.pdf /home/kji/InstrumentID/data/all/guitar/guitar_501.pdf
-# cp /data/Datasets/imslp/score_scrape/results/composer/Freillon_Poncein,_Jean-Pierre/La_veritable_maniere_d%27apprendre_a_jouer_en_perfection_/531921.pdf /home/kji/InstrumentID/data/all/oboe/oboe_27.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Nielsen,_Carl/Preludio_e_presto,_Op.52_/191431.pdf /home/kji/InstrumentID/data/all/violin/violin_176.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Nielsen,_Carl/Prelude,_Theme_and_Variations,_Op.48_/429576.pdf /home/kji/InstrumentID/data/all/violin/violin_177.pdf
 cp /data/Datasets/imslp/score_scrape/results/composer/Nielsen,_Carl/Polka,_CNW_44_/430729.pdf /home/kji/InstrumentID/data/all/violin/violin_178.pdf
