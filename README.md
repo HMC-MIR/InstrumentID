@@ -16,3 +16,7 @@ pip install -r requirements.txt
 If you want to download the PDFs that make up the dataset used, run the notebook 00_downloadScores.ipynb. The folder `cfg_files` contains the download links for all the PDFs in the dataset, the manual annotations for the labeled subset of the data, and the train/valid/test split used in the experiments.
 
 The other notebooks can be used to train individual models with various levels of pretraining.
+
+## Citation
+
+Kevin Ji, Daniel Yang, and TJ Tsai. "Instrument Classification of Solo Sheet Music Images" in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021.
