@@ -19,4 +19,6 @@ The other notebooks can be used to train individual models with various levels o
 
 ## Citation
 
-Kevin Ji, Daniel Yang, and TJ Tsai. "Instrument Classification of Solo Sheet Music Images" in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021.
+Kevin Ji, Daniel Yang, and TJ Tsai. "Instrument Classification of Solo Sheet Music Images" in Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, pp. 546-550.
+
+You can access the ICASSP paper [here](https://drive.google.com/file/d/19ZbJc3NtD_IKgTBHUZFdVT8JkVqe4Rc_/view?usp=sharing).
